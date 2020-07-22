@@ -1,4 +1,5 @@
 import sys
+#works_only_when_your_girlfriends_wifi_is_turned_on_hA_ha
 import subprocess 
 import os
 from decouple import config
